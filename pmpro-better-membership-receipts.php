@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       PMPRO Better Membership Receipts
  * Plugin URI:        https://www.expresstechsoftwares.com/pmpro-better-membership-receipts
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       This plugin create a setting for pmpro receipt and print the page according to our custom setting.
  * Version:           1.0.0
  * Author:            ExpressTech Softwares Solutions Pvt Ltd
  * Author URI:        https://www.expresstechsoftwares.com/
