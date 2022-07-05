@@ -1,0 +1,33 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */   
+   .child_container{
+            width: 100%;
+            height: auto;
+        }
+        .heading{
+            margin-left: 25px;
+            font-size: 20px;
+            padding: 10px; 
+            color: #4797ed;
+        }
+        #register{
+            margin: 15px 40px 15px 40px ;
+           
+        }
+        label{
+            font-size: 16px;
+            font-family: sans-serif;
+            color: #4797ed;
+        } 
+       .ets_field{
+            width: 350px;
+            padding: 8px;
+            margin-top: 5px;
+        }
+        #save_btn{
+            background: #4797ed; 
+            font-size: 18px;
+        }
+        
